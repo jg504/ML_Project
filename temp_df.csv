@@ -1,0 +1,37 @@
+Dish,Cuisine,Values
+Rice Bowl,American,21
+Strawberry Smoothie,Beverage,22
+Aloo Tikki,Chaat,2
+GolGappe,Chaat,1
+Raj Kachori,Chaat,0
+Chilli Paneer,Chinese,17
+Chilli Potato,Chinese,18
+Chowmein,Chinese,19
+Noodles,Chinese,20
+Cake,Dessert,24
+Chocolate Ice-Cream,Dessert,23
+Gulab Jamun,Dessert,25
+Rasgulla,Dessert,26
+Subway,Fast Food,28
+Vada Pav,Fast Food,27
+Veg Burger,Fast Food,29
+Butter Naan,Indian,3
+Chole Bhature,Indian,5
+Dal Makhani,Indian,4
+Palak Paneer,Indian,7
+Pav Bhaji,Indian,6
+Shahi Paneer,Indian,8
+Pasta,Italian,30
+Pizza,Italian,31
+Burrito,Mexican,32
+Challupa,Mexican,33
+Quesadilla,Mexican,34
+Tacos,Mexican,35
+Kebab,Mughlai,13
+Mutton Biryani,Mughlai,14
+Idli Sambhar,South Indian,9
+Masala Dosa,South Indian,11
+Onion Uttappam,South Indian,12
+Sambhar Vada,South Indian,10
+Thai Curry,Thai ,15
+Tom Yam,Thai ,16
